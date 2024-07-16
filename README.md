@@ -1,5 +1,5 @@
 # Question-Answering
-This project is about a simple Question-Answering Application using Neo4j, Entity Recognition, and Intent Classifier.
+This project is about a simple Question-Answering Application about the bibliography of Ray Kurzweil, an AI Scientist. 
 
 Tech Stack:
 1. REBEL: Extract Information of Entities and Relations, and form Knowlege Graph
