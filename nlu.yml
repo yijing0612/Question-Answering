@@ -1,0 +1,36 @@
+version: "3.1"
+nlu:
+  - intent: who_question
+    examples: |
+      - Who is Ray Kurzweil?
+      - Who are the siblings of Ray Kurzweil?
+      - Who invented Ray Kurzweil?
+      - Who is the winner of National Investors Hall of Fame?
+      - Who is the author of The Singularity is Near?
+      - Who is the father of Ray Kurzweil?
+      - Who founded Kurzweil Educational Systems?
+      - Tell me the author of The Singularity is Near.
+
+  - intent: where_question
+    examples: |
+      - Where did Ray Kurzweil worked at?
+      - Where did Ray Kurzweil completed his elementary education?
+      - Where is the birthplace of Ray Kurzweil?
+      - Where did Ray Kurzweil educated at?
+      - Where is Standford University located at?
+  
+  - intent: when_question
+    examples: |
+      - When did Ray Kurzweil completed his education at Yale University?
+      - When is the publication date of	Barry Ptolemy?
+      - When is Kuzweil Educational Systems invented?
+
+  - intent: what_question
+    examples: |
+      - What is the occupation of Ray Kurzweil?
+      - What award is received by Ray Kurzweil?
+      - What books or movies did Ray Kurzweil cast?
+      - What did Ray Kurzweil invented?
+      - What product is named after Ray Kurzweil?
+      - What is the publication date of Superintelligence?
+      - What is the occupation of Ray Kurzweil's father?
